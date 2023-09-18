@@ -33,7 +33,7 @@ h1 {
 
 div {
     padding: 10px;
-    overflow-y: hidden; 
+    overflow-y: hidden;
     width: 1000px;
     display: flex;
     align-items: center;
